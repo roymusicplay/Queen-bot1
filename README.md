@@ -1,4 +1,4 @@
-# Tiana Chat Bot
+# Queen bot
 • Just another Telegram AI chat bot written in Python using Pyrogram.
 
 • A Public Running Instance can be found on Telegram as [@TIANA_PRINCE_BOT](https://t.me/TIANA_PRINCE_BOT).
